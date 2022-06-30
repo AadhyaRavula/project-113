@@ -1,0 +1,17 @@
+h3
+{
+font-size: 25px !important;
+}
+
+
+canvas{
+    animation-duration: 4s;
+    animation-name:example;
+    animation-iteration-count: infinite;
+}
+
+
+body
+{
+    text-align: center;
+}
